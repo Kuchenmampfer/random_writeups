@@ -1,13 +1,15 @@
 # Little writeup on turneys
 
 ## Table of contents
-* [Single Player/Teams](#single-player/teams)
+* [Single Player orTeams](#single-player-or-teams)
 * [Modes](#modes)
 * [Matches](#matches)
+* [Streaming](#streaming)
 * [Additional Thoughts](#additional-thoughts)
+* [Recap of the Sofajäger Cup](#recap-of-the-sofajäger-cup)
 
 
-## Single Player/Teams
+## Single Player or Teams
 I think the most important question is whether we want a single player turnament or a team turnament.
 So lets have a quick overview over the pros and cons:
 
@@ -30,6 +32,7 @@ So lets have a quick overview over the pros and cons:
 
 I personally would prefer a team turnament if we get enough participants.
 Around 8 Teams is where it starts to get nice I guess. At least that is the size of the GBBL and I quite enjoyed it.
+However, maybe having the first turnament as single player is a good idea since that is not as big and we would have the chance to see how many players are interested, how the organisation can be optimized etc.
 
 
 ## Modes
@@ -95,8 +98,35 @@ However, a match can consist of multiple duels in many interesting ways:
 - every team numbers their players and the same numbers have a duel each -> much quicker. I enjoyed this mode in chess turneys
 - king of the hill -> interesting mode that I am not sure about how to implement. However, I enjoyed it in the CRL
 
+## Streaming
+Noc can stream with live commentary on yt. Probably best with two accounts so you can view both attacks in parallel or switch between them. If we want to get SC to advertise the tourney, they will probably want that stream so they ca post it afterwards. Then it will be important that it contains no visible emulator as the do not like/allow them.
+
 ## Additional Thoughts
 - Price: A price is a nice to have, but the right advertisement, strong participants, good organisation and a great stream is more important.
 - possible prices: gold pass, nitro, money, role
-- banning troups: This is a bad idea because it is too powerfull. You do not have 103 alternatives like you do in CR.
 - one day turney/multi day turney: Huge difference in organization effort, depends on the mode. One day is probably best on weekend.
+- having a long term league would suit the server name
+- crazy idea: Have a new account push competition where everyone creates a new account and starts constructing builder base at the same time and one month later, the winner is the one with the highest PB. No gemming and no power potions allowed. Progress could be tracked with my bot.
+- After the previous event, many people would have ~bh 5 accounts, so we could do small builder hall turneys
+
+## Banning Troups
+Here we have some different positions:
+- üüüüüüüüüü: "This is a bad idea because it is too powerfull. You do not have 103 alternatives like you do in CR."
+- Kelo: "banning troops is imo doable but i wouldn't recommend it for first tourneys something we could consider later down the road."
+- Heron: "Instead of banning a single troop which realistically wipes out numerous strats (plus an entire team if focused on their best players) .... Why not do what SC did with YT tourney (BH6/7) whereby players had to change at least 1 troop from their previous game, thereby encouraging use of multiple strats..." 
+
+## Recap of the Sofajäger Cup
+(submitted by (Un)lucky)
+1. We used Discord for registration. 
+2. I used challonge.com to create a tournament tree
+2. We used double elimination which means you can lose once and still win (edit: This is true for the first two cups. The third one was swiss and everyone liked it except for the lack of an exciting finale. So we planned the next one to be mixed swiss plus KO, but it never happened.)
+3. I added all the names of the players, most of the time without any seeding but you could sort them that the highest personalbest or last seasonfinish plays against the lowest in the first round but that only adds frustration for the lower experience players. 
+4. We created a clan in which the matches will be played. We always had  at least 3 Accounts from Organisation and Streamer in the clan. 
+-2 for the Streamer to switch between both attacks or have them splitscreen5
+-1 for me which announced the matches to be played in chat. 
+More Organisationaccounts simplifirs the process as it is really stressful at times. 
+5. I always put the Results on challonge.com which filled the tournament tree and gave me the new matches and some interesting stats if you enter the Stars and Percentage as well. 
+6. Because we had multiple matches at the same time we had the rule to keep the chat cleared, which made it the announcements of the matches easier to see and to make it easier to See the results especially when it is in a bo3. 
+To speed up the process we had Bo1 for the first round and bo3 for later rounds with a bo5 final. 
+If you have any more questions or want to organize one I am glad to help you. If you want I can send you our English Version of the rule book as well.
+(edit: Here we have the rulebook of the latest planned tourney that did not take place due to the lack of participants: https://docs.google.com/document/d/1f7Wv_yK_6DnR-QUvA5a0CXlhmLdUtmI6_-KAUOjI0kk/edit)
